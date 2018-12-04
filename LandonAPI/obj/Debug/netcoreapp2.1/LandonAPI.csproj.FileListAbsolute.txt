@@ -1,0 +1,14 @@
+C:\.Net Apps\LandonAPI\LandonAPI\bin\Debug\netcoreapp2.1\LandonAPI.deps.json
+C:\.Net Apps\LandonAPI\LandonAPI\bin\Debug\netcoreapp2.1\LandonAPI.runtimeconfig.json
+C:\.Net Apps\LandonAPI\LandonAPI\bin\Debug\netcoreapp2.1\LandonAPI.runtimeconfig.dev.json
+C:\.Net Apps\LandonAPI\LandonAPI\bin\Debug\netcoreapp2.1\LandonAPI.dll
+C:\.Net Apps\LandonAPI\LandonAPI\bin\Debug\netcoreapp2.1\LandonAPI.pdb
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.csprojAssemblyReference.cache
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.csproj.CoreCompileInputs.cache
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.RazorAssemblyInfo.cache
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.RazorAssemblyInfo.cs
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.AssemblyInfoInputs.cache
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.AssemblyInfo.cs
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.RazorTargetAssemblyInfo.cache
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.dll
+C:\.Net Apps\LandonAPI\LandonAPI\obj\Debug\netcoreapp2.1\LandonAPI.pdb

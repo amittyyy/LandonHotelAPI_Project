@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandonAPI", "LandonAPI\LandonAPI.csproj", "{BB07F1FD-940F-474D-94D1-FE9AB6A7CF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB07F1FD-940F-474D-94D1-FE9AB6A7CF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB07F1FD-940F-474D-94D1-FE9AB6A7CF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB07F1FD-940F-474D-94D1-FE9AB6A7CF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB07F1FD-940F-474D-94D1-FE9AB6A7CF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A18A400-AFD5-4AAD-955E-8C4B6E8F51C4}
+	EndGlobalSection
+EndGlobal
